@@ -1,3 +1,6 @@
+# Zachariah Derrick zcd22@nau.edu
+# Adam Montano ajm2327@nau.edu
+
 def new_contact_store():
 	return {}
 	
